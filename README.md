@@ -1,5 +1,6 @@
-![himeno my beloved](https://i.pinimg.com/originals/3f/4e/1c/3f4e1cd6530eb5f5e5fc9c00aaf651f3.gif)
+<img src="https://i.pinimg.com/originals/3f/4e/1c/3f4e1cd6530eb5f5e5fc9c00aaf651f3.gif" alt="she's just like me">
 <a href="https://discord.com/users/1416022715701137419"><img src="https://lanyard.cnrad.dev/api/1416022715701137419?bg=120202&borderRadius=0" /></a>
+
 languages:
  - whatever the fuck i'm feeling at that exact moment
  - старославѧнскꙑи ​ѩꙁꙑкъ
