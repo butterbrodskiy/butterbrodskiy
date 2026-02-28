@@ -6,7 +6,8 @@ languages:
  - старославѧнскꙑи ​ѩꙁꙑкъ
 
 projects i'm currently in:
- - [niggebi](https://discord.gg/niggebi) (some sexy stuff for that chinese gacha) - main developer
+ - [kinda windy today](https://discord.gg/AMG5FbBS2j)'s minty-ww (some sexy stuff for wuwa)
+ - ~~[niggebi](https://discord.gg/niggebi) (some sexy stuff for that chinese gacha) - main developer~~ also dead, who would've thought
  - ~~korepi - russian translator, community manager~~ korepi's dead, folks, give it up
 
 interested in:
