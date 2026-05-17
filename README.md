@@ -2,11 +2,11 @@
 <a href="https://discord.com/users/1416022715701137419"><img src="https://lanyard.cnrad.dev/api/1416022715701137419?bg=120202&borderRadius=0" /></a>
 
 languages:
- - whatever the fuck i'm feeling at that exact moment
+ - whatever the hell i'm feeling at that exact moment
  - старославѧнскꙑи ​ѩꙁꙑкъ
 
 projects i'm currently in:
- - [kinda windy today](https://discord.gg/AMG5FbBS2j)'s minty-ww (some sexy stuff for wuwa)
+ - [lsdloader & projects in it](https://discord.gg/uujgmWQ4Gc) - mainly maintaining the loader for lsd team's projects, which include some naughty stuff for stella sora, blue archive, overfield and tower of fantasy
  - ~~[niggebi](https://discord.gg/niggebi) (some sexy stuff for that chinese gacha) - main developer~~ also dead, who would've thought
  - ~~korepi - russian translator, community manager~~ korepi's dead, folks, give it up
 
